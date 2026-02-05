@@ -7,7 +7,7 @@ Senior Project II
 (CMSC-4920-100)
 1/29/25
 
-Weekly Report 1
+Weekly Report 1:
 What is the Project?
 Our project is called the Algorithm Visualizer. It will be a tool used primarily in academic settings, students will be able to choose an algorithm from a list of three categories (sorting algorithms, searching algorithms, and graphing algorithms). There will be at least one algorithm available for visualization in each algorithm category (bubble sort in the sorting category, linear search in the searching category, etc.) Once chosen, the user can either enter preset data or input their own custom data, this will allow the user to see how different data sets affect the algorithm’s operation. Each step of the algorithm will display to the screen in detail along with pseudocode of how the algorithm works in a panel on the left hand side. The user will be able to pause, play, or step through algorithm visualization as well. This tool will not only be useful to students who are just learning how different algorithms function,  professors will benefit from it as well as they can use it to demonstrate different algorithms in class and talk through it step by step. Our primary goal with this project is to make a learning tool that’ll help professors and students alike demonstrate/understand various algorithms more easily.
 
